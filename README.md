@@ -1,3 +1,3 @@
-# Gender-and-Age-Detection-using-CNN
+BTL nhóm 7
+DANG DINH TAN 20210094
 
-Age and Gender Detection of the detected face images from the source image using convolution networks,  and deployed with front end using flask in heroku
